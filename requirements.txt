@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+pymysql
+cryptography
+paho-mqtt>=2
+python-dotenv
